@@ -1,5 +1,5 @@
 {
-  "name": "cfturnstile-vue3",
+  "name": "vue3",
   "version": "1.0.0",
   "main": "./dist/cfturnstile-vue3.umd.js",
   "scripts": {
@@ -26,9 +26,5 @@
       "require": "./dist/cfturnstile-vue3.umd.js"
     }
   },
-  "homepage": "https://github.com/Astrian/cfturnstile-vue3",
-  "license" : "MIT",
-  "bugs": {
-    "url" : "https://github.com/Astrian/cfturnstile-vue3/issues"
-  }
+  "license" : "MIT"
 }
